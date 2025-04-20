@@ -141,7 +141,7 @@
 }
 
 .main-info__title {
-  color: var(  --section-heading);
+  color: var(  --main-info-heading);
   font-size: var(--main-text-size);
   font-weight: 700;
   line-height: 23.4px;
@@ -219,7 +219,7 @@ font-weight: 400;
   font-family: var(--font);
   font-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
   font-weight: 700;
-  line-height: 82.5%; /* 95.7px */
+  line-height: 82.5%;
   margin: auto;
 }
 
