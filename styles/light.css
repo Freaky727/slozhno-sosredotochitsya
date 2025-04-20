@@ -6,7 +6,7 @@
   --title-color: #FFC2E6;
   --title-text-color: #353430;
   --header-decoration: #353430;
-  --section-heading: #353430;
+  --main-info-heading: #353430;
   --border-color-hover: rgba(50, 49, 45, 0.40);
 }
 
@@ -27,7 +27,7 @@
     --title-color: #FFC2E6;
     --title-text-color: #353430;
     --header-decoration: #353430;
-    --section-heading: #353430;
+    --main-info-heading: #353430;
     --border-color-hover: rgba(50, 49, 45, 0.40);
   }
   .header__rec {
