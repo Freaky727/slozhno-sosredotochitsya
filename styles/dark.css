@@ -1,4 +1,4 @@
-:root.theme_dark {
+:root.page.theme_dark {
   --bg-image: url(../images/cover-image-dark.png);
   --accent-color: #FF0070;
   --bg-color: #000028;
@@ -8,10 +8,6 @@
   --header-decoration: #FF0070;
   --main-info-heading: #FF0070;
   --border-color-hover: rgba(255, 0, 112, 0.40);
-}
-
-.page.theme_dark {
-  
 }
 
 .theme_dark .header__rec {
