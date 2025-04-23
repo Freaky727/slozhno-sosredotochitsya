@@ -1,4 +1,4 @@
-:root.theme_light {
+:root.page.theme_light {
   --bg-image: url(../images/cover-image-light.png);
   --accent-color: #FF8DCB;
   --bg-color: #FFF1F7;
@@ -8,10 +8,6 @@
   --header-decoration: #353430;
   --main-info-heading: #353430;
   --border-color-hover: rgba(50, 49, 45, 0.40);
-}
-
-.page.theme_light {
-  
 }
 
 .theme_light .header__rec {
