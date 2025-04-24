@@ -1,4 +1,4 @@
-:root.page.theme_dark {
+.page.theme_dark {
   --bg-image: url(../images/cover-image-dark.png);
   --accent-color: #FF0070;
   --bg-color: #000028;
